@@ -4,9 +4,9 @@
 
 <header class="site-home-header">
     {{ .Scratch.Set "background" .Params.feature_image }}
-    {{- partial "header-background.html" ./posts -}}
+    {{- partial "header-background.html" posts -}}
         <div class="inner">
-            {{- partial "site-nav.html" ./posts -}}
+            {{- partial "site-nav.html" posts -}}
             <div class="site-header-content">
                 <h1 class="site-title">
                     404 Not Found
