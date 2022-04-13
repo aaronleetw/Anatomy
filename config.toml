@@ -1,0 +1,93 @@
+baseURL = 'https://anatomy.pages.link/'
+languageCode = 'en-us'
+title = 'Anatomy'
+theme = "casper"
+
+[params]
+  description = "Human anatomy is cool"
+  mainSections = ["posts"]
+
+[menu]
+  [[menu.main]]
+    identifier = "integumentary"
+    name = "Integumentary"
+    url = "/posts/integumentary/"
+    weight = 10
+  [[menu.main]]
+    identifier = "skeletal"
+    name = "Skeletal"
+    url = "/posts/skeletal/"
+    weight = 20
+  [[menu.main]]
+    identifier = "muscular"
+    name = "Muscular"
+    url = "/posts/muscular/"
+    weight = 30
+  [[menu.main]]
+    identifier = "nervous"
+    name = "Nervous"
+    url = "/posts/nervous/"
+    weight = 40
+  [[menu.main]]
+    identifier = "circulatory"
+    name = "Circulatory"
+    url = "/posts/circulatory/"
+    weight = 50
+  [[menu.main]]
+    identifier = "respiratory"
+    name = "Respiratory"
+    url = "/posts/respiratory/"
+    weight = 60
+  [[menu.main]]
+    identifier = "excretory"
+    name = "Excretory"
+    url = "/posts/excretory/"
+    weight = 70
+  [[menu.main]]
+    identifier = "immune"
+    name = "Immune"
+    url = "/posts/immune/"
+    weight = 80
+  [[menu.main]]
+    identifier = "digestive"
+    name = "Digestive"
+    url = "/posts/digestive/"
+    weight = 90
+  [[menu.main]]
+    identifier = "endocrine"
+    name = "Endocrine"
+    url = "/posts/endocrine/"
+    weight = 100
+
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[privacy]
+
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+
+  [privacy.twitter]
+    disabled = false
+    enableDNT = true
+    simple = true
+
+  [privacy.instagram]
+    disabled = false
+    simple = true
+
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
+
+[services]
+
+  [services.instagram]
+    disableInlineCSS = true
+
+  [services.twitter]
+    disableInlineCSS = true
