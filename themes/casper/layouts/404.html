@@ -1,0 +1,34 @@
+{{ define "body_class" }} home-template {{ end }}
+
+{{ define "main" }}
+
+<header class="site-home-header">
+    {{ .Scratch.Set "background" .Params.feature_image }}
+    {{- partial "header-background.html" . -}}
+        <div class="inner">
+            {{- partial "site-nav.html" . -}}
+            <div class="site-header-content">
+                <h1 class="site-title">
+                    404 Not Found
+                </h1>
+                <h2 class="site-description">Welp, we found nothing.</h2>
+
+            </div>
+        </div>
+    </div>
+</header>
+
+<main id="site-main" class="site-main outer">
+    <div class="inner posts">
+        <p class="backhome"><a href="/">Let's head back home</a></p>
+        <style>
+            .backhome {
+                text-align: center;
+                margin-top: 2em;
+                font-size: x-large;
+            }
+        </style>
+    </div>
+</main>
+
+{{ end }}
