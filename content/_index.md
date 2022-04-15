@@ -1,4 +1,4 @@
 +++
-feature_image = "/images/topography.svg"
+feature_image = ""
 +++
 

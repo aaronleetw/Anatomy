@@ -1,4 +1,4 @@
-{{ define "body_class" }} post-template {{ end }}
+{{ define "body_class" }} home-template {{ end }}
 
 {{ define "main" }}
 
@@ -9,10 +9,9 @@
             {{- partial "site-nav.html" $ -}}
             <div class="site-header-content">
                 <h1 class="site-title">
-                    404 Not Found
+                    <code>404</code> Not Found
                 </h1>
-                <h2 class="site-description">Welp, we found nothing.</h2>
-
+                <h2 class="site-description">Welp, we found nothing.<br>Maybe it's not made yet.</h2>
             </div>
         </div>
     </div>
@@ -26,6 +25,9 @@
                 text-align: center;
                 margin-top: 2em;
                 font-size: x-large;
+            }
+            h2.site-description {
+                text-align: center;
             }
         </style>
     </div>

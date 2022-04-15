@@ -6,5 +6,5 @@ description = ""
 tags = [
     "",
 ]
-feature_image = "/images/"
+feature_image = "/images/{{ .File }}/front.png"
 +++

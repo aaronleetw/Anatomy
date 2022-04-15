@@ -4,7 +4,7 @@ title = 'Anatomy'
 theme = "casper"
 
 [params]
-  description = "Human anatomy is cool"
+  description = "Human anatomy is cool. Made by Aaron and Kate"
   mainSections = ["posts"]
 
 [menu]
