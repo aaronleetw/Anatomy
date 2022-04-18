@@ -7,6 +7,9 @@ theme = "casper"
   description = "Human anatomy is cool. Made by Aaron and Kate"
   mainSections = ["posts"]
 
+[markup.goldmark.renderer]
+    unsafe= true
+
 [menu]
   [[menu.main]]
     identifier = "integumentary"
