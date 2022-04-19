@@ -14,7 +14,7 @@ feature_image = "/images/muscular/front.png"
 The muscle system is an organ system that has three main structures: skeletal, cardiac, and smooth. The three structures work together to support the body’s movement, provide protection, and regulate temperature.
 
 <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
-<model-viewer src="https://www.visiblebody.com/hubfs/3d-images/muscle.glb" ios-src="https://www.visiblebody.com/hubfs/3d-images/usdz/muscle.usdz" alt="3D human anatomy model of an animated biceps muscle. View in augmented reality." style="--progress-bar-color: #1c53a5;" field-of-view="20deg" camera-orbit="0 75deg 3" align-model="" shadow-intensity="1" experimental-pmrem="" camera-controls="" ar="" auto-rotate="" autoplay="">
+<model-viewer src="https://www.visiblebody.com/hubfs/3d-images/muscle.glb" ios-src="https://www.visiblebody.com/hubfs/3d-images/usdz/muscle.usdz" alt="3D human anatomy model of an animated biceps muscle. View in augmented reality." style="--progress-bar-color: #1c53a5;" field-of-view="90deg" camera-orbit="0 75deg 3" align-model="" shadow-intensity="1" experimental-pmrem="" camera-controls="" ar="" auto-rotate="" autoplay="">
 </model-viewer>
 <style>
 model-viewer {
