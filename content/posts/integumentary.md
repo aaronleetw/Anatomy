@@ -1,13 +1,14 @@
 +++
 author = "Aaron and Kate"
 title = "Integumentary System"
-date = "2022-04-12T21:59:38+08:00"
+date = "2022-04-22T10:38:24+08:00"
 description = "The integumentary system is an organ system that covers the entire body. It is made up of the epidermis, dermis, and subcutaneous layer. The main functions of the integumentary system are to regulate body temperature, protect from infection and radiation, perceive senses, and produce vitamin."
 tags = [
-    "integumentary",
+	"integumentary",
 ]
-feature_image = "/images/integumentary/front.png"
+feature_image = "/images/Integumentary%20System%2035f33b20597d4fc6b934b57149ad36b0/Untitled.png"
 +++
+
 
 # Overarching function
 
@@ -25,7 +26,7 @@ The integumentary system is an organ system that covers the entire body. It is m
     
     Hair on our body provides a “cover” for mammals to insulate against cold by conserving body heat. The sebaceous gland beside it excretes oil to protect against friction.
     
-    ![](/images/integumentary/01.png)
+    ![Screen Shot 2022-04-13 at 9.08.21 AM.png](Integumentary%20System%2035f33b20597d4fc6b934b57149ad36b0/Screen_Shot_2022-04-13_at_9.08.21_AM.png)
     
 
 ### Microscopic structures
@@ -38,7 +39,7 @@ The integumentary system is an organ system that covers the entire body. It is m
     
     Sensory receptors are the yellow circular objects in the diagram below. They perceive touch and transmit messages to the brain through nerves, making us feel.
     
-    ![](/images/integumentary/02.png)
+    ![Screen Shot 2022-04-12 at 3.48.24 PM.png](Integumentary%20System%2035f33b20597d4fc6b934b57149ad36b0/Screen_Shot_2022-04-12_at_3.48.24_PM.png)
     
 
 # Connection to other systems

@@ -1,7 +1,7 @@
 +++
 author = "Aaron and Kate"
 title = "Skeletal System"
-date = "2022-04-21T20:34:45+08:00"
+date = "2022-04-22T10:38:24+08:00"
 description = "The skeletal system makes up the framework of our body. It enables us to move, protects our organs, synthesizes blood cells, and stores nutrients such as calcium. "
 tags = [
 	"skeletal",
@@ -39,7 +39,7 @@ The skeletal system makes up the framework of our body. It enables us to move, p
     
     Periosteum is a layer of connective tissue that covers the outer surface of bones. It contains a lot of nerves that provide sensation when the tissue is damaged. 
     
-    ![Screen Shot 2022-04-13 at 9.09.02 AM.png](Skeletal%20System%200b753a9793eb48a5bfad0c085324fdf7/Screen_Shot_2022-04-13_at_9.09.02_AM.png)
+    ![Screen Shot 2022-04-13 at 9.09.02 AM.png](/images/Skeletal%20System%200b753a9793eb48a5bfad0c085324fdf7/Screen_Shot_2022-04-13_at_9.09.02_AM.png)
     
 
 # Connection to other systems
