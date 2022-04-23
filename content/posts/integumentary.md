@@ -1,7 +1,7 @@
 +++
 author = "Aaron and Kate"
 title = "Integumentary System"
-date = "2022-04-22T10:38:24+08:00"
+date = "2022-04-23T21:48:23+08:00"
 description = "The integumentary system is an organ system that covers the entire body. It is made up of the epidermis, dermis, and subcutaneous layer. The main functions of the integumentary system are to regulate body temperature, protect from infection and radiation, perceive senses, and produce vitamin."
 tags = [
 	"integumentary",

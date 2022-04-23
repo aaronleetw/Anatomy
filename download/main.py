@@ -21,7 +21,7 @@ for i in onlyfiles:
     del lines[1]
     with open('data/' + i, "w") as f:
         for line in lines:
-            if (line.startswith('![')):
+            if ('![' in line):
                 line = line.replace('(', '(/images/')
             f.write(line)
     first_word = re.search(r'^[a-zA-Z]+', i).group(0)

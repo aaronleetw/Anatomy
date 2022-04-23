@@ -1,7 +1,7 @@
 +++
 author = "Aaron and Kate"
 title = "Nervous System"
-date = "2022-04-22T10:38:24+08:00"
+date = "2022-04-23T21:48:23+08:00"
 description = "The nervous system transmit signals across the body in order to respond to stimuli and maintain homeostasis. Signals are transmitted through the manipulation of ions. Action potential, or nerve impulses, create a negative flow of ions to transmit signals from one place to another. "
 tags = [
 	"nervous",
@@ -39,7 +39,7 @@ The brain and the spinal cord make up the central nervous system (CNS). The CNS 
     
     The brain is sometimes referred to as the “control center” of the body. The brain helps maintain homeostasis and is the organ “deciding” the activities. The cerebrum is the largest part of the brain and is divided into two halves called hemispheres. It carries out learning, memory, language, speech, voluntary body movements, and sensory perception. The smaller part of the brain is called the cerebellum. The cerebellum controls balance, posture, and coordination. The brain stem then connects with the spinal cord, a structure described below.
     
-    ![Untitled](Nervous%20System%20405dd1ef862a478cb27d9a765fcf4492/Untitled%201.png)
+    ![Untitled](/images/Nervous%20System%20405dd1ef862a478cb27d9a765fcf4492/Untitled%201.png)
     
 2. **Spinal Cord**
     

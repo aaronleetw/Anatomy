@@ -1,7 +1,7 @@
 +++
 author = "Aaron and Kate"
 title = "Digestive System"
-date = "2022-04-22T10:38:24+08:00"
+date = "2022-04-23T21:48:23+08:00"
 description = "Food moves from the mouth, through the esophagus to the digestive organs in your body. The digestive system ingests food, breaks it down into nutrients, absorb those nutrients and move them into your blood, and then excrete waste your body cannot process. "
 tags = [
 	"digestive",

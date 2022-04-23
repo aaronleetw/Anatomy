@@ -1,7 +1,7 @@
 +++
 author = "Aaron and Kate"
 title = "Circulatory System"
-date = "2022-04-22T10:38:24+08:00"
+date = "2022-04-23T21:48:23+08:00"
 description = "The circulatory system transports are blood cells, nutrients, and waste. Blood vessels carry those substances from the body to the heart, then back to the body. "
 tags = [
 	"circulatory",

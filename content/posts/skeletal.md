@@ -1,7 +1,7 @@
 +++
 author = "Aaron and Kate"
 title = "Skeletal System"
-date = "2022-04-22T10:38:24+08:00"
+date = "2022-04-23T21:48:23+08:00"
 description = "The skeletal system makes up the framework of our body. It enables us to move, protects our organs, synthesizes blood cells, and stores nutrients such as calcium. "
 tags = [
 	"skeletal",
