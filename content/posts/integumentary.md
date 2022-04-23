@@ -26,7 +26,7 @@ The integumentary system is an organ system that covers the entire body. It is m
     
     Hair on our body provides a “cover” for mammals to insulate against cold by conserving body heat. The sebaceous gland beside it excretes oil to protect against friction.
     
-    ![Screen Shot 2022-04-13 at 9.08.21 AM.png](Integumentary%20System%2035f33b20597d4fc6b934b57149ad36b0/Screen_Shot_2022-04-13_at_9.08.21_AM.png)
+    ![Screen Shot 2022-04-13 at 9.08.21 AM.png](images/Integumentary%20System%2035f33b20597d4fc6b934b57149ad36b0/Screen_Shot_2022-04-13_at_9.08.21_AM.png)
     
 
 ### Microscopic structures
@@ -39,7 +39,7 @@ The integumentary system is an organ system that covers the entire body. It is m
     
     Sensory receptors are the yellow circular objects in the diagram below. They perceive touch and transmit messages to the brain through nerves, making us feel.
     
-    ![Screen Shot 2022-04-12 at 3.48.24 PM.png](Integumentary%20System%2035f33b20597d4fc6b934b57149ad36b0/Screen_Shot_2022-04-12_at_3.48.24_PM.png)
+    ![Screen Shot 2022-04-12 at 3.48.24 PM.png](images/Integumentary%20System%2035f33b20597d4fc6b934b57149ad36b0/Screen_Shot_2022-04-12_at_3.48.24_PM.png)
     
 
 # Connection to other systems
