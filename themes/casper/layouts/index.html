@@ -26,7 +26,7 @@
     <div class="inner posts">
         <div class="post-feed">
             {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
-            {{ range $index, $element := $pages.ByDate }}
+            {{ range $index, $element := $pages.ByDate.Reverse }}
                 {{- partial "post-card.html" (dict "context" . "index" $index "home" $.IsHome) -}}
             {{ end }}
         </div>
