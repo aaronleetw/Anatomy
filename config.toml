@@ -61,6 +61,16 @@ theme = "casper"
     name = "Endocrine"
     url = "/posts/endocrine/"
     weight = 100
+  [[menu.main]]
+    identifier = "reproductive"
+    name = "Reproductive"
+    url = "/posts/reproductive/"
+    weight = 110
+  [[menu.main]]
+    identifier = "lymphatic"
+    name = "Lymphatic"
+    url = "/posts/lymphatic/"
+    weight = 120
 
 
 [taxonomies]

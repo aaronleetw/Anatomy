@@ -5,7 +5,7 @@
 <header class="site-home-header">
     {{ .Scratch.Set "background" .Params.feature_image }}
     {{- partial "header-background.html" $ -}}
-        <div class="inner">
+        <div class="inner hasNav">
             {{- partial "site-nav.html" $ -}}
             <div class="site-header-content">
                 <h1 class="site-title">
