@@ -47,11 +47,6 @@ theme = "casper"
     url = "/posts/excretory/"
     weight = 70
   [[menu.main]]
-    identifier = "immune"
-    name = "Immune"
-    url = "/posts/immune/"
-    weight = 80
-  [[menu.main]]
     identifier = "digestive"
     name = "Digestive"
     url = "/posts/digestive/"
